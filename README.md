@@ -1,0 +1,2 @@
+# bangg
+personal website
